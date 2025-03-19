@@ -16,7 +16,7 @@ DocEase is a doctor appointment system built using Spring Boot and React.js to s
 ## 📌 Installation
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/DocEase.git
+git clone https://github.com/Ashutosh7Shukla/DocEase.git
 ```
 
 2. Set up the backend:
